@@ -1,7 +1,40 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\prati\\source\\repos\\ECommercesWeb\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F97F882-27AB-430F-AA41-AF1AF069FA94}|Ecommerces.sherd\\Ecommerces.sherd.csproj|c:\\users\\prati\\source\\repos\\ecommercesweb\\ecommerces.sherd\\dependanceinjection\\sharedservicecontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F97F882-27AB-430F-AA41-AF1AF069FA94}|Ecommerces.sherd\\Ecommerces.sherd.csproj|solutionrelative:ecommerces.sherd\\dependanceinjection\\sharedservicecontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F97F882-27AB-430F-AA41-AF1AF069FA94}|Ecommerces.sherd\\Ecommerces.sherd.csproj|c:\\users\\prati\\source\\repos\\ecommercesweb\\ecommerces.sherd\\dependanceinjection\\jwtauthenticationschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F97F882-27AB-430F-AA41-AF1AF069FA94}|Ecommerces.sherd\\Ecommerces.sherd.csproj|solutionrelative:ecommerces.sherd\\dependanceinjection\\jwtauthenticationschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F97F882-27AB-430F-AA41-AF1AF069FA94}|Ecommerces.sherd\\Ecommerces.sherd.csproj|c:\\users\\prati\\source\\repos\\ecommercesweb\\ecommerces.sherd\\middleware\\listentoonlyapigetaway.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F97F882-27AB-430F-AA41-AF1AF069FA94}|Ecommerces.sherd\\Ecommerces.sherd.csproj|solutionrelative:ecommerces.sherd\\middleware\\listentoonlyapigetaway.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F97F882-27AB-430F-AA41-AF1AF069FA94}|Ecommerces.sherd\\Ecommerces.sherd.csproj|c:\\users\\prati\\source\\repos\\ecommercesweb\\ecommerces.sherd\\logs\\logexpception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F97F882-27AB-430F-AA41-AF1AF069FA94}|Ecommerces.sherd\\Ecommerces.sherd.csproj|solutionrelative:ecommerces.sherd\\logs\\logexpception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F97F882-27AB-430F-AA41-AF1AF069FA94}|Ecommerces.sherd\\Ecommerces.sherd.csproj|c:\\users\\prati\\source\\repos\\ecommercesweb\\ecommerces.sherd\\ecommerces.sherd.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6F97F882-27AB-430F-AA41-AF1AF069FA94}|Ecommerces.sherd\\Ecommerces.sherd.csproj|solutionrelative:ecommerces.sherd\\ecommerces.sherd.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F97F882-27AB-430F-AA41-AF1AF069FA94}|Ecommerces.sherd\\Ecommerces.sherd.csproj|c:\\users\\prati\\source\\repos\\ecommercesweb\\ecommerces.sherd\\responses\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F97F882-27AB-430F-AA41-AF1AF069FA94}|Ecommerces.sherd\\Ecommerces.sherd.csproj|solutionrelative:ecommerces.sherd\\responses\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F97F882-27AB-430F-AA41-AF1AF069FA94}|Ecommerces.sherd\\Ecommerces.sherd.csproj|c:\\users\\prati\\source\\repos\\ecommercesweb\\ecommerces.sherd\\middleware\\globalexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F97F882-27AB-430F-AA41-AF1AF069FA94}|Ecommerces.sherd\\Ecommerces.sherd.csproj|solutionrelative:ecommerces.sherd\\middleware\\globalexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F97F882-27AB-430F-AA41-AF1AF069FA94}|Ecommerces.sherd\\Ecommerces.sherd.csproj|c:\\users\\prati\\source\\repos\\ecommercesweb\\ecommerces.sherd\\interface\\igenericinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F97F882-27AB-430F-AA41-AF1AF069FA94}|Ecommerces.sherd\\Ecommerces.sherd.csproj|solutionrelative:ecommerces.sherd\\interface\\igenericinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,6 +55,103 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SharedServiceContainer.cs",
+              "DocumentMoniker": "C:\\Users\\prati\\source\\repos\\ECommercesWeb\\Ecommerces.sherd\\DependanceInjection\\SharedServiceContainer.cs",
+              "RelativeDocumentMoniker": "Ecommerces.sherd\\DependanceInjection\\SharedServiceContainer.cs",
+              "ToolTip": "C:\\Users\\prati\\source\\repos\\ECommercesWeb\\Ecommerces.sherd\\DependanceInjection\\SharedServiceContainer.cs",
+              "RelativeToolTip": "Ecommerces.sherd\\DependanceInjection\\SharedServiceContainer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T17:14:56.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JWTAuthenticationSchema.cs",
+              "DocumentMoniker": "C:\\Users\\prati\\source\\repos\\ECommercesWeb\\Ecommerces.sherd\\DependanceInjection\\JWTAuthenticationSchema.cs",
+              "RelativeDocumentMoniker": "Ecommerces.sherd\\DependanceInjection\\JWTAuthenticationSchema.cs",
+              "ToolTip": "C:\\Users\\prati\\source\\repos\\ECommercesWeb\\Ecommerces.sherd\\DependanceInjection\\JWTAuthenticationSchema.cs",
+              "RelativeToolTip": "Ecommerces.sherd\\DependanceInjection\\JWTAuthenticationSchema.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T11:32:41.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ListenToOnlyApiGetaway.cs",
+              "DocumentMoniker": "C:\\Users\\prati\\source\\repos\\ECommercesWeb\\Ecommerces.sherd\\Middleware\\ListenToOnlyApiGetaway.cs",
+              "RelativeDocumentMoniker": "Ecommerces.sherd\\Middleware\\ListenToOnlyApiGetaway.cs",
+              "ToolTip": "C:\\Users\\prati\\source\\repos\\ECommercesWeb\\Ecommerces.sherd\\Middleware\\ListenToOnlyApiGetaway.cs",
+              "RelativeToolTip": "Ecommerces.sherd\\Middleware\\ListenToOnlyApiGetaway.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T11:18:10.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LogExpception.cs",
+              "DocumentMoniker": "C:\\Users\\prati\\source\\repos\\ECommercesWeb\\Ecommerces.sherd\\Logs\\LogExpception.cs",
+              "RelativeDocumentMoniker": "Ecommerces.sherd\\Logs\\LogExpception.cs",
+              "ToolTip": "C:\\Users\\prati\\source\\repos\\ECommercesWeb\\Ecommerces.sherd\\Logs\\LogExpception.cs",
+              "RelativeToolTip": "Ecommerces.sherd\\Logs\\LogExpception.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T07:52:15.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Ecommerces.sherd.csproj",
+              "DocumentMoniker": "C:\\Users\\prati\\source\\repos\\ECommercesWeb\\Ecommerces.sherd\\Ecommerces.sherd.csproj",
+              "RelativeDocumentMoniker": "Ecommerces.sherd\\Ecommerces.sherd.csproj",
+              "ToolTip": "C:\\Users\\prati\\source\\repos\\ECommercesWeb\\Ecommerces.sherd\\Ecommerces.sherd.csproj",
+              "RelativeToolTip": "Ecommerces.sherd\\Ecommerces.sherd.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-15T07:51:37.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Response.cs",
+              "DocumentMoniker": "C:\\Users\\prati\\source\\repos\\ECommercesWeb\\Ecommerces.sherd\\Responses\\Response.cs",
+              "RelativeDocumentMoniker": "Ecommerces.sherd\\Responses\\Response.cs",
+              "ToolTip": "C:\\Users\\prati\\source\\repos\\ECommercesWeb\\Ecommerces.sherd\\Responses\\Response.cs",
+              "RelativeToolTip": "Ecommerces.sherd\\Responses\\Response.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T07:35:22.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GlobalException.cs",
+              "DocumentMoniker": "C:\\Users\\prati\\source\\repos\\ECommercesWeb\\Ecommerces.sherd\\Middleware\\GlobalException.cs",
+              "RelativeDocumentMoniker": "Ecommerces.sherd\\Middleware\\GlobalException.cs",
+              "ToolTip": "C:\\Users\\prati\\source\\repos\\ECommercesWeb\\Ecommerces.sherd\\Middleware\\GlobalException.cs",
+              "RelativeToolTip": "Ecommerces.sherd\\Middleware\\GlobalException.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T10:10:37.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IGenericInterface.cs",
+              "DocumentMoniker": "C:\\Users\\prati\\source\\repos\\ECommercesWeb\\Ecommerces.sherd\\Interface\\IGenericInterface.cs",
+              "RelativeDocumentMoniker": "Ecommerces.sherd\\Interface\\IGenericInterface.cs",
+              "ToolTip": "C:\\Users\\prati\\source\\repos\\ECommercesWeb\\Ecommerces.sherd\\Interface\\IGenericInterface.cs",
+              "RelativeToolTip": "Ecommerces.sherd\\Interface\\IGenericInterface.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T09:04:40.674Z"
             }
           ]
         }
