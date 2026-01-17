@@ -1,0 +1,13 @@
+C:\Users\prati\source\repos\ECommercesWeb\Ecommerces.sherd\bin\Debug\net10.0\Ecommerces.sherd.deps.json
+C:\Users\prati\source\repos\ECommercesWeb\Ecommerces.sherd\bin\Debug\net10.0\Ecommerces.sherd.dll
+C:\Users\prati\source\repos\ECommercesWeb\Ecommerces.sherd\bin\Debug\net10.0\Ecommerces.sherd.pdb
+C:\Users\prati\source\repos\ECommercesWeb\Ecommerces.sherd\obj\Debug\net10.0\Ecommerces.sherd.csproj.AssemblyReference.cache
+C:\Users\prati\source\repos\ECommercesWeb\Ecommerces.sherd\obj\Debug\net10.0\Ecommerces.sherd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prati\source\repos\ECommercesWeb\Ecommerces.sherd\obj\Debug\net10.0\Ecommerces.sherd.AssemblyInfoInputs.cache
+C:\Users\prati\source\repos\ECommercesWeb\Ecommerces.sherd\obj\Debug\net10.0\Ecommerces.sherd.AssemblyInfo.cs
+C:\Users\prati\source\repos\ECommercesWeb\Ecommerces.sherd\obj\Debug\net10.0\Ecommerces.sherd.csproj.CoreCompileInputs.cache
+C:\Users\prati\source\repos\ECommercesWeb\Ecommerces.sherd\obj\Debug\net10.0\Ecommerces.sherd.sourcelink.json
+C:\Users\prati\source\repos\ECommercesWeb\Ecommerces.sherd\obj\Debug\net10.0\Ecommerces.sherd.dll
+C:\Users\prati\source\repos\ECommercesWeb\Ecommerces.sherd\obj\Debug\net10.0\refint\Ecommerces.sherd.dll
+C:\Users\prati\source\repos\ECommercesWeb\Ecommerces.sherd\obj\Debug\net10.0\Ecommerces.sherd.pdb
+C:\Users\prati\source\repos\ECommercesWeb\Ecommerces.sherd\obj\Debug\net10.0\ref\Ecommerces.sherd.dll
