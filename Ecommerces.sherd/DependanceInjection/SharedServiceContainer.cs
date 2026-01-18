@@ -1,6 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
+using Serilog;
 using System;
 using System.Collections.Generic;
 using System.Text;
@@ -13,6 +14,17 @@ namespace Ecommerces.sherd.DependanceInjection
             (this IServiceCollection services,IConfiguration config, string FileName) where TContext : DbContext
            
         {
+
+            services.AddDbContext<TContext>(option => option.UseSqlServer(
+                config
+                .GetConnectionString("eCommerceConnection"), sqlServerOption =>
+                sqlServerOption.EnableRetryOnFailure()));
+
+            // configure serilog logging
+            Log.Logger = 
+
+
+
             // Register shared services here
             // services.AddScoped<YourSharedService>();
             return services;
